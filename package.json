@@ -6,7 +6,7 @@
     "author": "Vinay Pulim <v@pulim.com>",
     "dependencies": {
         "node-expat": ">=1.6.1",
-        "request": ">=2.9.0"
+        "request": "*"
     },
     "repository" : { 
         "type":"git", 
