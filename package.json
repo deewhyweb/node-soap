@@ -6,16 +6,17 @@
     "author": "Vinay Pulim <v@pulim.com>",
     "dependencies": {
         "node-expat": ">=1.6.1",
-        "request": "2.2.0"
+        "request": "2.2.0",
+        "fh-mbaas-api": "^3.0.5"
     },
-    "repository" : { 
-        "type":"git", 
+    "repository" : {
+        "type":"git",
         "url":"https://github.com/milewise/node-soap.git" },
     "main": "./index.js",
     "directories": { "lib": "./lib" },
     "scripts": {"test": "mocha -R spec -u exports test/*-test.js"},
     "keywords": ["soap"],
-    "licenses": [{ 
+    "licenses": [{
         "type" :  "MIT License",
         "url" :   "http://www.opensource.org/licenses/mit-license.php" }]
 }
