@@ -7,7 +7,7 @@
     "dependencies": {
         "node-expat": ">=1.6.1",
         "request": "2.2.0",
-        "fh-mbaas-api": "^3.0.5"
+        "fh-mbaas-api": "^4.0.5"
     },
     "repository" : {
         "type":"git",
